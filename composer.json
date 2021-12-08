@@ -1,0 +1,16 @@
+{
+  "name": "phpmate/dogfood-recipes",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Jan Mikeš",
+      "email": "j.mikes@me.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "PHPMateDogFood\\": "src"
+    }
+  }
+}
