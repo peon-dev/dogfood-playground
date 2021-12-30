@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace PHPMateDogFood;
 
-final class UnusedPrivateMethod
+final class UnusedPrivateMethod1
 {
     public function someMethod(): void
     {
